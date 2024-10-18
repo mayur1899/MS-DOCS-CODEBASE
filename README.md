@@ -17,3 +17,5 @@ git clone https://github.com/mayur1899/MS-DOCS-CODEBASE.git
 <p>You can Install the dev dependencies via npm/yarn to further develop</p>
 
 ## for using the app
+
+visit [MS-DOCS](https://mayur1899.github.io/ms-docs/)
